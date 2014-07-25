@@ -8,7 +8,7 @@
 ## This program intends to cache the inverse of a matrix particularly with large dimensions.
 ## Since inverting a matrix is potentially a time-consuming computation, 
 ## it makes sense to cache the inverse matrix so that if required (in future) 
-## it can be looked up in the cache rather than be recomputed. 
+## it can easily be looked up in the cache rather than be recomputed. 
 
 
 
